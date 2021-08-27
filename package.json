@@ -1,6 +1,6 @@
 {
   "name": "vaers2mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VAERS CSV to MongoDB converter with sample data aggregations",
   "scripts": {
     "aggregate": "node src/scripts/aggregate",

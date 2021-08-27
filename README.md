@@ -52,3 +52,5 @@ Output:
 This produces [a better visualization of the data](https://codepen.io/rpagesblake/pen/xxrGOwR).
 
 Though we are already filtering many self-reported events by using medical terminology for the symptom search, we can better control (although still imperfectly) by omitting *symptomText* fields that contain words, such as "I", "my", and the self-reporting keyword, "consumer". The *thrombosis-or-stroke-percentage-by-year-no-consumer* aggregate does this, resulting in [this visualization](https://codepen.io/rpagesblake/pen/KKqpNmB).
+
+![Reported Thrombosis (Blood Clot) and Strokes in VAERS by Year, as Percentage - Controlled for Self-Reporting](https://i.postimg.cc/tCx2YrZh/reported-thrombosis-bloo.png)
